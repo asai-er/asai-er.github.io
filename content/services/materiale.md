@@ -22,7 +22,7 @@ weight: 100
 | *S. Salti* | Computer Vision |  [Slides](/salti.pdf) |
 | *D. Tafani* | Etica dell’intelligenza artificiale e cattura culturale | [Slides](/tafani.pdf) |
 | *P. Torroni* | Natural Language Processing | [Slides](/torroni.pdf) |
-| *S.P. Zingaro* | Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | [Slides](/zingaro.pdf), [Esercizi](https://github.com/lozingaro/asai-er-ml) |
+| *S.P. Zingaro* | Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | [Slides](/zingaro.pdf), [Esercizi](https://github.com/lozingaro/asai-er-ml), [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8189794.svg)](https://doi.org/10.5281/zenodo.8189794) |
 
 <!-- 
 | *L. Pellegrini* -- Laboratorio di programmazione Python | 
