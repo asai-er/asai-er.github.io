@@ -14,6 +14,7 @@ weight: 100
 | *R. Calegari* | Programmazione Logica e rudimenti di Prolog | [Programmazione logica](/calegari-prolog.pdf), [Explainable and Ethical AI](/calegari-xeai.pdf) |
 | *G. Ciatto* | Agenti Intelligenti | [Slides](/ciatto.pdf) |
 | *M. Ferrara* | Deep Learning | [Slides](/ferrara.pdf) |
+| *M. Francia* -- Data Mining | [Slides](/francia.pdf) |
 | *R. Girau* | Rudimenti di programmazione Python | [Slides](/girau.pdf) |
 | *G. Graffieti* | Introduction to AI Ethics | [Slides](/graffieti.pdf) |
 | *E. Loli Piccolomini* | Matematica per l'intelligenza artificiale | [Slides](/piccolomini.pdf) |
@@ -28,6 +29,5 @@ weight: 100
 <!-- 
 | *L. Pellegrini* -- Laboratorio di programmazione Python | 
 | Mercoledì 19 Luglio | *A. Zanellati* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo  
-| Giovedì 20 Luglio | *M. Francia* -- Data Mining | Pausa pranzo | **libero**  | 
 -->
 
