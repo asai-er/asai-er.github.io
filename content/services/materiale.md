@@ -20,6 +20,7 @@ weight: 100
 | *E. Loli Piccolomini* | Matematica per l'intelligenza artificiale | [Slides](/piccolomini.pdf) |
 | *M. Magnini* | Explainable AI | [Slides](/magnini.pdf) |
 | *A. Pagliarani* | Creare valore industriale con l'AI | [Slides](/pagliarani.pdf) |
+| *L. Pellegrini* | Laboratorio di programmazione Python | [Jupyter Notebook](/pellegrini-lab_notebooks.zip) |
 | *S. Salti* | Computer Vision |  [Slides](/salti.pdf) |
 | *D. Tafani* | Etica dell’intelligenza artificiale e cattura culturale | [Slides](/tafani.pdf) |
 | *P. Torroni* | Natural Language Processing | [Slides](/torroni.pdf) |
