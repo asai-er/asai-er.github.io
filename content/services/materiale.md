@@ -15,6 +15,7 @@ weight: 100
 | *G. Ciatto* | Agenti Intelligenti | [Slides](/ciatto.pdf) |
 | *M. Ferrara* | Deep Learning | [Slides](/ferrara.pdf) |
 | *M. Francia* -- Data Mining | [Slides](/francia.pdf) |
+| *J. Giovanelli* | AutoML | [Slides](/giovanelli.pdf) |
 | *R. Girau* | Rudimenti di programmazione Python | [Slides](/girau.pdf) |
 | *G. Graffieti* | Introduction to AI Ethics | [Slides](/graffieti.pdf) |
 | *E. Loli Piccolomini* | Matematica per l'intelligenza artificiale | [Slides](/piccolomini.pdf) |
@@ -24,11 +25,10 @@ weight: 100
 | *S. Salti* | Computer Vision |  [Slides](/salti.pdf) |
 | *D. Tafani* | Etica dell’intelligenza artificiale e cattura culturale | [Slides](/tafani.pdf) |
 | *P. Torroni* | Natural Language Processing | [Slides](/torroni.pdf) |
+| *A. Zanellati* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | [Notebooks](zanellato.tar.gz) |
 | *S.P. Zingaro* | Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | [Slides](/zingaro.pdf), [Esercizi](https://github.com/lozingaro/asai-er-ml), [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8189794.svg)](https://doi.org/10.5281/zenodo.8189794) |
-| *J. Giovanelli* | AutoML | [Slides](/giovanelli.pdf) |
 
 <!-- 
-| *L. Pellegrini* -- Laboratorio di programmazione Python | 
-| Mercoledì 19 Luglio | *A. Zanellati* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo  
+| Mercoledì 19 Luglio  Pausa pranzo  
 -->
 
